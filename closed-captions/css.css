@@ -95,6 +95,11 @@ You probably want to change the styling.
 	font-family: "brenner slab";
 }
 
+.p2.on{
+	background: green;
+	color: mediumpurple;
+}
+
 /* **********************************************
 Sounds.
 	You can style the whole body, or you can 
