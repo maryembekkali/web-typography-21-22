@@ -132,16 +132,10 @@ iframe {
 	padding: 5em;
 }
 
-#closed-caption{
-	text: center;
-}
-
 #closed-captions{
 /* 	display: blok; */
-	text: center;
+	text-align: center;
 }
-
-
 
 
 
