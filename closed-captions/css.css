@@ -95,10 +95,6 @@ You probably want to change the styling.
 	font-family: "brenner slab";
 }
 
-.p2.on{
-	background: green;
-	color: mediumpurple;
-}
 
 /* **********************************************
 Sounds.
@@ -114,8 +110,28 @@ Sounds.
 
 iframe {
 	transition: 1s;
+
 }
 /* The moment the class .sound1 is added to the body, the movie makes a turn */
 .sound1 iframe {
 	transform: rotate(1turn);
+}
+
+
+
+/*MIJN CODE*/
+
+.p2.on{
+	background: green;
+	color: mediumpurple;
+}
+
+#video-placeholder{
+	display: block;
+	margin:auto;
+	padding: 5em;
+}
+
+#closed-caption{
+	text: center;
 }
