@@ -9,7 +9,7 @@ Feel free to adjust the defaults to your needs.
 	opacity: 0;
 	transition: .05s;
 	position: absolute;
-	text-color: white;
+	color: white;
 }
 #closed-captions .on {
 	opacity: 1;
