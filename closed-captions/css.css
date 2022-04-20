@@ -105,7 +105,7 @@ Sounds.
 
 /* The moment the class .sound1 is added to the body, the background is yellow */
 .sound1 {
-	background: yellow;
+	/*background: yellow;*/
 }
 
 iframe {
@@ -114,7 +114,7 @@ iframe {
 }
 /* The moment the class .sound1 is added to the body, the movie makes a turn */
 .sound1 iframe {
-	transform: rotate(1turn);
+	/*transform: rotate(1turn);*/
 }
 
 
@@ -132,12 +132,10 @@ iframe {
 	padding: 5em;
 }
 
-#closed-captions{
-/* 	display: blok; */
+#closed-captions p{
 	text-align: center;
+	width: 100%;
 }
-
-
 
 
 
