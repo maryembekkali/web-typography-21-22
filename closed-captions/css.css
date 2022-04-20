@@ -104,12 +104,16 @@ Sounds.
 *********************************************  */
 
 /* The moment the class .sound1 is added to the body, the background is yellow */
-.sound1 {
-	/*background: yellow;*/
+/*.sound1 {
+	background: yellow;
+}*/
+
+.sound0 {
+	background: #2a383b;
 }
 
-.sound11 {
-	background: blue;
+.sound1 {
+	background: #575d5e;
 }
 
 iframe {
@@ -139,10 +143,6 @@ iframe {
 #closed-captions p{
 	text-align: center;
 	width: 100%;
-}
-
-body{
-	background: #2a383b;
 }
 
 
