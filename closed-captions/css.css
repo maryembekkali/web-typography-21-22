@@ -214,7 +214,36 @@ body{
 	background: #9aa58e;
 }*/
 
+/*.sound1 {
+	animation-name:  alarm;
+	animation-duration:  10s;
+}
 
+@keyframes alarm {
+	0% {
+		background: pink;
+	}
+	100%{
+		background: none;
+		background: white;
+	}
+}*/
+
+
+.sound1 {
+	animation-name:  alarm;
+	animation-duration:  10s;
+}
+
+@keyframes alarm {
+	0% {
+		background: pink;
+	}
+	100%{
+		background: none;
+		background: white;
+	}
+}
 
 
 
