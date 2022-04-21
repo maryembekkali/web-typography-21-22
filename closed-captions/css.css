@@ -232,11 +232,14 @@ body{
 
 .sound1 {
 	animation-name:  alarm;
-	animation-duration:  10s;
+	animation-duration:  1s;
 }
 
 @keyframes alarm {
 	0% {
+		background: pink;
+	}
+	90% {
 		background: pink;
 	}
 	100%{
