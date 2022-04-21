@@ -109,7 +109,7 @@ Sounds.
 	background: yellow;
 }*/
 
-.sound0 {
+/*.sound0 {
 	background: #1b2526;
 }
 
@@ -131,7 +131,7 @@ Sounds.
 
 .sound5 {
 	background: #9aa58e;
-}
+}*/
 
 
 iframe {
@@ -184,7 +184,38 @@ iframe {
 	color: red;
 }
 
-
 body{
 	background: black;
 }
+
+.sound0 iframe {
+	width: 110%;
+}
+
+/*.sound1 {
+	background: #575d5e;
+}*/
+
+/*.sound2 {
+	background: #9aa58e;
+}*/
+
+/*.sound3 {
+	background: #5b6660;
+}*/
+
+/*.sound4 {
+	background: #143541;
+}*/
+
+/*.sound5 {
+	background: #9aa58e;
+}*/
+
+
+
+
+
+
+
+
