@@ -189,7 +189,9 @@ body{
 }
 
 .sound0 iframe {
-	width: 110%;
+	/*width: 85%;*/
+	/*height: 85%;*/
+	size: 110%;
 }
 
 /*.sound1 {
