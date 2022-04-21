@@ -9,7 +9,7 @@ Feel free to adjust the defaults to your needs.
 	opacity: 0;
 	transition: .05s;
 	position: absolute;
-	color: white;
+	/*color: white;*/
 }
 #closed-captions .on {
 	opacity: 1;
@@ -164,18 +164,14 @@ iframe {
 }
 
 
-.voice1 p{
+.voice1 {
 	color: green;
 }
 
-.voice2 p{
+.voice2 {
 	color: blue;
 }
 
-
-.voice1 {
-	font-style: italic;
-	color: green;
-	color: mediumpurple;
+.voice3{
+	color: pink;
 }
-
