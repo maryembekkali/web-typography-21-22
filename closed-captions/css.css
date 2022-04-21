@@ -239,12 +239,12 @@ body{
 	0% {
 		background: pink;
 	}
-	90% {
+	80% {
 		background: pink;
 	}
 	100%{
 		background: none;
-		background: white;
+		background: blue;
 	}
 }
 
