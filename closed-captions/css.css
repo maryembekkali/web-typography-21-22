@@ -214,6 +214,9 @@ body{
 	background: #9aa58e;
 }*/
 
+
+
+/*ACHTERGROND MET KEYFRAMES*/
 /*.sound1 {
 	animation-name:  alarm;
 	animation-duration:  10s;
@@ -228,7 +231,6 @@ body{
 		background: white;
 	}
 }*/
-
 
 .sound1 {
 	animation-name:  alarm;
