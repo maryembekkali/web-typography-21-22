@@ -109,9 +109,8 @@ Sounds.
 	background: yellow;
 }*/
 
-.sound0 {
-	/*background: #1b2526;*/
-	background: black;
+/*.sound0 {
+	background: #1b2526;
 }
 
 .sound1 {
@@ -132,7 +131,7 @@ Sounds.
 
 .sound5 {
 	background: #9aa58e;
-}
+}*/
 
 
 iframe {
@@ -183,4 +182,9 @@ iframe {
 
 .voice5 {
 	color: red;
+}
+
+
+body{
+	background: black;
 }
