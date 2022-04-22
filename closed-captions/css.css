@@ -172,11 +172,13 @@ iframe {
 
 .voice2 {
 	color: white;
-	font-family: "brenner Sans condensed";
+	font-family: "brenner Sans";
 }
 
 .voice3{
-	color: pink;
+	color: #ff0000;
+	font-family: "brenner sans";
+	text-transform: uppercase;
 }
 
 .voice4{
