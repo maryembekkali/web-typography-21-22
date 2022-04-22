@@ -235,7 +235,7 @@ body{
 
 .sound1 {
 	animation-name:  alarm;
-	animation-duration:  .9s;
+	animation-duration:  1s;
 }
 
 @keyframes alarm {
@@ -252,7 +252,7 @@ body{
 
 .sound2 {
 	animation-name: inzoomen;
-	animation-duration: 1.8s;
+	animation-duration: 1.2s;
 }
 
 @keyframes inzoomen {
