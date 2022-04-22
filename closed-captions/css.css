@@ -156,6 +156,13 @@ iframe {
 	display: block;
 	margin:auto;
 	padding: 5em;
+	size: 110%;
+}
+
+.sound0 iframe {
+	/*width: 85%;*/
+	/*height: 85%;*/
+	/*size: 110%;*/
 }
 
 #closed-captions p{
@@ -188,11 +195,7 @@ body{
 	background: black;
 }
 
-.sound0 iframe {
-	/*width: 85%;*/
-	/*height: 85%;*/
-	size: 110%;
-}
+
 
 /*.sound1 {
 	background: #575d5e;
