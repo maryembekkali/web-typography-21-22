@@ -252,7 +252,7 @@ body{
 
 .sound2 {
 	animation-name: inzoomen;
-	animation-duration: 2s;
+	animation-duration: 1.8s;
 }
 
 @keyframes inzoomen {
