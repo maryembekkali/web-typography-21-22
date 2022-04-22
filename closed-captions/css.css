@@ -149,8 +149,7 @@ iframe {
 /*MIJN CODE*/
 
 .p2.on{
-/*	background: green;
-	color: mediumpurple;*/
+	background: green;
 }
 
 #video-placeholder{
@@ -168,11 +167,13 @@ iframe {
 .voice1 {
 	color: green;
 	font-family: "brenner slab";
+	font-size: 1.5em;
 }
 
 .voice2 {
 	color: white;
 	font-family: "brenner Sans";
+	font-size: 1.5em;
 }
 
 .voice3{
