@@ -141,6 +141,7 @@ iframe {
 /* The moment the class .sound1 is added to the body, the movie makes a turn */
 .sound1 iframe {
 	/*transform: rotate(1turn);*/
+
 }
 
 
@@ -158,8 +159,6 @@ iframe {
 	padding: 5em;
 }
 
-
-
 #closed-captions p{
 	text-align: center;
 	width: 100%;
@@ -173,7 +172,7 @@ iframe {
 
 .voice2 {
 	color: white;
-	font-family: "brenner Sans condensed";
+	font-family: "brenner Sans ";
 }
 
 .voice3{
