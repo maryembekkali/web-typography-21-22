@@ -158,14 +158,8 @@ iframe {
 	padding: 5em;
 }
 
-.sound0 iframe {
-	/*width: 85%;*/
-	/*height: 85%;*/
-	/*size: 110%;*/
-}
-
 iframe{
-	width: 120%;
+	zoom: 105%;
 }
 
 #closed-captions p{
