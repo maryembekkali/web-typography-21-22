@@ -109,30 +109,6 @@ Sounds.
 	background: yellow;
 }*/
 
-/*.sound0 {
-	background: #1b2526;
-}
-
-.sound1 {
-	background: #575d5e;
-}
-
-.sound2 {
-	background: #9aa58e;
-}
-
-.sound3 {
-	background: #5b6660;
-}
-
-.sound4 {
-	background: #143541;
-}
-
-.sound5 {
-	background: #9aa58e;
-}*/
-
 
 iframe {
 	transition: 1s;
@@ -140,8 +116,7 @@ iframe {
 }
 /* The moment the class .sound1 is added to the body, the movie makes a turn */
 .sound1 iframe {
-	transform: rotate(1turn);
-
+	transform: scale(1.1, 1.1);
 }
 
 
@@ -200,29 +175,6 @@ iframe {
 body{
 	background: black;
 }
-
-
-
-/*.sound1 {
-	background: #575d5e;
-}*/
-
-/*.sound2 {
-	background: #9aa58e;
-}*/
-
-/*.sound3 {
-	background: #5b6660;
-}*/
-
-/*.sound4 {
-	background: #143541;
-}*/
-
-/*.sound5 {
-	background: #9aa58e;
-}*/
-
 
 
 /*ACHTERGROND MET KEYFRAMES*/
