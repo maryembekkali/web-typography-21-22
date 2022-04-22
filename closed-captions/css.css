@@ -156,13 +156,16 @@ iframe {
 	display: block;
 	margin:auto;
 	padding: 5em;
-	size: 110%;
 }
 
 .sound0 iframe {
 	/*width: 85%;*/
 	/*height: 85%;*/
 	/*size: 110%;*/
+}
+
+iframe{
+	width: 120%;
 }
 
 #closed-captions p{
