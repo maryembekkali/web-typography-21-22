@@ -158,9 +158,7 @@ iframe {
 	padding: 5em;
 }
 
-iframe{
-	zoom: 105%;
-}
+
 
 #closed-captions p{
 	text-align: center;
@@ -251,7 +249,27 @@ body{
 }
 
 
+.sound1 {
+	animation-name: inzoomen;
+	animation-duration: 2s;
+}
 
+@keyframes inzoomen {
+	0% {
+		iframe{
+			zoom: 110%;
+		}
+	}
+	100% {
+		iframe{
+			zoom: 100%;
+		}
+	}
+}
+
+/*iframe{
+	zoom: 105%;
+}*/
 
 
 
