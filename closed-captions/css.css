@@ -230,46 +230,50 @@ body{
 	}
 }*/
 
+
 .sound1 {
 	animation-name:  alarm;
-	animation-duration:  1s;
+	animation-duration:  .9s;
 }
 
 @keyframes alarm {
 	0% {
-		background: pink;
+		background: #af0000;
 	}
 	80% {
-		background: pink;
+		background: #af0000;
 	}
 	100%{
-		background: none;
-		background: blue;
+		background: black;
 	}
 }
 
-
-/*.sound1 {
+.sound2 {
 	animation-name: inzoomen;
 	animation-duration: 2s;
 }
 
 @keyframes inzoomen {
 	0% {
-		iframe{
-			zoom: 110%;
-		}
+		background: #af0000;
+	}
+	20% {
+		background: #1427b2;
+	}
+	40% {
+		background: #af0000;
+	}
+	60% {
+		background: #1427b2;
+	}
+	40% {
+		background: #af0000;
 	}
 	100% {
-		iframe{
-			zoom: 100%;
-		}
+		background: black;
 	}
-}*/
+}
 
-/*iframe{
-	zoom: 105%;
-}*/
 
 
 
