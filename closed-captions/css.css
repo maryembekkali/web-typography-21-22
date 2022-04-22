@@ -268,8 +268,3 @@ body{
 	}
 }
 
-
-iframe{
-	clip-path: circle();
-}
-
