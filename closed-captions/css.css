@@ -29,7 +29,7 @@ The first paragraph, with extended timing for
 	spoken.
 You probably want to change the styling.
 ********************************************** */
-/*.p0 span {
+.p0 span {
 	opacity: 0;
 	font-family: brenner;
 }
@@ -93,11 +93,9 @@ You probably want to change the styling.
 	opacity: 1;
 	transition: 0s 3.7s;
 	font-family: "brenner slab";
-}*/
+}
 
-/*.p0.on {
-	font-family: "brenner slab";
-}*/
+
 
 /* **********************************************
 Sounds.
@@ -175,6 +173,7 @@ iframe {
 
 .voice2 {
 	color: white;
+	font-family: ;
 }
 
 .voice3{
