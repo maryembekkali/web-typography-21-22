@@ -140,7 +140,7 @@ iframe {
 }
 /* The moment the class .sound1 is added to the body, the movie makes a turn */
 .sound1 iframe {
-	/*transform: rotate(1turn);*/
+	transform: rotate(1turn);
 
 }
 
@@ -149,15 +149,12 @@ iframe {
 /*MIJN CODE*/
 
 .p41.on{
-/* 	background: green; */
 	top: 23.65em;
 }
 .p42.on{
-/* 	background: blue; */
 	top: 24.85em;
 }
 .p43.on{
-/* 	background: purple; */
 	top: 26.05em;
 }
 
