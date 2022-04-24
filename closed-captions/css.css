@@ -145,9 +145,7 @@ iframe {
 }
 
 iframe{
-/* 	clip-path: circle(); */
-/* 	clip-path: inset(4.8em 0); */
-	clip-path: inset(9em 0);
+	/*clip-path: inset(9em 0);*/
 }
 
 
