@@ -140,8 +140,8 @@ iframe {
 }*/
 
 .sound0 iframe  {
-	animation: shake .2s;
- 	animation-iteration-count: 3;
+	animation: shake 2s;
+ 	animation-iteration-count: 1;
 }
 
 @keyframes shake {
