@@ -115,9 +115,9 @@ iframe {
 
 }
 /* The moment the class .sound1 is added to the body, the movie makes a turn */
-.sound1 iframe {
+/*.sound1 iframe {
 	transform: scale(1.1, 1.1);
-}
+}*/
 
 .sound1 iframe {
 	animation: scale-up-down;
@@ -128,7 +128,7 @@ iframe {
   0% {
     transform: scale(0.5);
   }
-  90% {
+  50% {
     transform: scale(1);
   }
   100% {
@@ -155,7 +155,7 @@ iframe {
 
 .sound0 iframe  {
 	animation: shake .2s;
- 	animation-iteration-count: 4;
+ 	animation-iteration-count: 5;
 }
 
 @keyframes shake {
