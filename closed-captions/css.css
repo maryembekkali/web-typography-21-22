@@ -126,7 +126,7 @@ Sounds.
 
 
 iframe{
-	/*clip-path: inset(9em 0);*/
+	/*clip-path: inset(10em 0);*/
 }
 
 
@@ -190,25 +190,9 @@ body{
 
 
 /*ACHTERGROND MET KEYFRAMES*/
-/*.sound1 {
-	animation-name:  alarm;
-	animation-duration:  10s;
-}
-
-@keyframes alarm {
-	0% {
-		background: pink;
-	}
-	100%{
-		background: none;
-		background: white;
-	}
-}*/
-
-
 .sound1 {
-	animation-name:  alarm;
-	animation-duration:  1s;
+/*	animation-name:  alarm;
+	animation-duration:  1s;*/
 	animation: scale-up-down;
 	animation-duration: 1.2s;
 }
@@ -223,6 +207,11 @@ body{
   100% {
     transform: scale(1);
   }
+}
+
+.sound1 {
+	animation-name:  alarm;
+	animation-duration:  1s;
 }
 
 @keyframes alarm {
