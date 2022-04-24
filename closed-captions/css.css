@@ -137,32 +137,6 @@ iframe {
 }*/
 
 
-.sound1 {
-	animation-name: scale;
-	animation-duration: 2s;
-}
-
-@keyframes scale {
-	0% {
-		background: #af0000;
-	}
-	20% {
-		background: #1427b2;
-	}
-	40% {
-		background: #af0000;
-	}
-	60% {
-		background: #1427b2;
-	}
-	80% {
-		background: #af0000;
-	}
-	100% {
-		background: black;
-	}
-}
-
 /*.scale-up-center {
 	animation: scale-up-center 1s ;
 }
@@ -281,6 +255,20 @@ body{
 .sound1 {
 	animation-name:  alarm;
 	animation-duration:  1s;
+	animation: scale-up-down;
+	animation-duration: 1s;
+}
+
+@keyframes scale-up-down {
+  0% {
+    transform: scale(0.5);
+  }
+  50% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(0.5);
+  }
 }
 
 @keyframes alarm {
