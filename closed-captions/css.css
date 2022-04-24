@@ -121,13 +121,8 @@ iframe {
 
 
 .sound0 iframe  {
-/* Start the shake animation and make the animation last for 0.5 seconds */
-	animation: shake .5s;
-
-/* When the animation is finished, start again */
-/*  animation-iteration-count: infinite; */
+	animation: shake .2s;
  	animation-iteration-count: 3;
-/* 	animation-duration: 5s; */
 }
 
 @keyframes shake {
