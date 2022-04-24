@@ -191,8 +191,6 @@ body{
 
 /*ACHTERGROND MET KEYFRAMES*/
 .sound1 {
-/*	animation-name:  alarm;
-	animation-duration:  1s;*/
 	animation: scale-up-down;
 	animation-duration: 1.2s;
 }
