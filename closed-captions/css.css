@@ -210,7 +210,7 @@ body{
 	animation-name:  alarm;
 	animation-duration:  1s;
 	animation: scale-up-down;
-	animation-duration: 1.8s;
+	animation-duration: 1.2s;
 }
 
 @keyframes scale-up-down {
