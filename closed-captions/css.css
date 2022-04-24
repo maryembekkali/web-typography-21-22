@@ -107,7 +107,7 @@ Sounds.
 
 .sound0 iframe  {
 	animation: shake .2s;
- 	animation-iteration-count: 5;
+ 	animation-iteration-count: 8;
 }
 
 @keyframes shake {
