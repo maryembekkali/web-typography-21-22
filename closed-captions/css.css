@@ -104,54 +104,6 @@ Sounds.
 	a sound starts.
 *********************************************  */
 
-/* The moment the class .sound1 is added to the body, the background is yellow */
-/*.sound1 {
-	background: yellow;
-}*/
-
-
-iframe {
-	transition: 1s;
-
-}
-/* The moment the class .sound1 is added to the body, the movie makes a turn */
-/*.sound1 iframe {
-	transform: scale(1.1, 1.1);
-}*/
-
-/*.sound1 iframe {
-	animation: scale-up-down;
-	animation-duration: 1s;
-}
-
-@keyframes scale-up-down {
-  0% {
-    transform: scale(0.5);
-  }
-  50% {
-    transform: scale(1);
-  }
-  100% {
-    transform: scale(0.5);
-  }
-}*/
-
-
-/*.scale-up-center {
-	animation: scale-up-center 1s ;
-}
-
-@keyframes scale-up-center {
-  0% {
-    transform: scale(0.5);
-  }
-  100% {
-    transform: scale(1);
-  }
-}*/
-
-
-
 
 .sound0 iframe  {
 	animation: shake .2s;
@@ -256,18 +208,18 @@ body{
 	animation-name:  alarm;
 	animation-duration:  1s;
 	animation: scale-up-down;
-	animation-duration: 1s;
+	animation-duration: 1.2s;
 }
 
 @keyframes scale-up-down {
   0% {
-    transform: scale(0.5);
-  }
-  50% {
     transform: scale(1);
   }
+  90% {
+    transform: scale(1.1);
+  }
   100% {
-    transform: scale(0.5);
+    transform: scale(1);
   }
 }
 
