@@ -124,24 +124,111 @@ Sounds.
   	100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 
+
+
 .sound8 iframe {
-	animation: shake2;
-	animation-duration: 43s;
+	animation: vibrate-3 3s linear infinite both;
 }
 
-@keyframes shake2 {
-	0% { transform: translate(1px, 1px) rotate(0deg); }
-  	10% { transform: translate(-1px, -2px) rotate(-1deg); }
-  	20% { transform: translate(-3px, 0px) rotate(1deg); }
-  	30% { transform: translate(3px, 2px) rotate(0deg); }
-  	40% { transform: translate(1px, -1px) rotate(1deg); }
- 	50% { transform: translate(-1px, 2px) rotate(-1deg); }
-  	60% { transform: translate(-3px, 1px) rotate(0deg); }
- 	70% { transform: translate(3px, 1px) rotate(-1deg); }
- 	80% { transform: translate(-1px, -1px) rotate(1deg); }
- 	90% { transform: translate(1px, 2px) rotate(0deg); }
- 	100% { transform: translate(1px, -2px) rotate(-1deg); }
+@keyframes vibrate-3 {
+  0% {transform: translate(0);}
+  1.25% {transform: translate(-2px, -2px);}
+  2.5% {transform: translate(2px, -2px);}
+  3.75% {transform: translate(-2px, 2px);}
+  5% {transform: translate(2px, 2px);}
+  6.25% {transform: translate(-2px, -2px);}
+  7.5% {transform: translate(2px, -2px);}
+  9.75% {transform: translate(-2px, 2px);}
+  10% {transform: translate(-2px, -2px);}
+  11.25% {transform: translate(2px, -2px);}
+  12.5% {transform: translate(0);}
+
+  0% {transform: translate(0);}
+  10% {transform: translate(-2px, -2px);}
+  20% {transform: translate(2px, -2px);}
+  30% {transform: translate(-2px, 2px);}
+  40% {transform: translate(2px, 2px);}
+  50% {transform: translate(-2px, -2px);}
+  60% {transform: translate(2px, -2px);}
+  70% {transform: translate(-2px, 2px);}
+  80% {transform: translate(-2px, -2px);}
+  90% {transform: translate(2px, -2px);}
+  100% {transform: translate(0);}
+
+  0% {transform: translate(0);}
+  10% {transform: translate(-2px, -2px);}
+  20% {transform: translate(2px, -2px);}
+  30% {transform: translate(-2px, 2px);}
+  40% {transform: translate(2px, 2px);}
+  50% {transform: translate(-2px, -2px);}
+  60% {transform: translate(2px, -2px);}
+  70% {transform: translate(-2px, 2px);}
+  80% {transform: translate(-2px, -2px);}
+  90% {transform: translate(2px, -2px);}
+  100% {transform: translate(0);}
+
+  0% {transform: translate(0);}
+  10% {transform: translate(-2px, -2px);}
+  20% {transform: translate(2px, -2px);}
+  30% {transform: translate(-2px, 2px);}
+  40% {transform: translate(2px, 2px);}
+  50% {transform: translate(-2px, -2px);}
+  60% {transform: translate(2px, -2px);}
+  70% {transform: translate(-2px, 2px);}
+  80% {transform: translate(-2px, -2px);}
+  90% {transform: translate(2px, -2px);}
+  100% {transform: translate(0);}
+
+  0% {transform: translate(0);}
+  10% {transform: translate(-2px, -2px);}
+  20% {transform: translate(2px, -2px);}
+  30% {transform: translate(-2px, 2px);}
+  40% {transform: translate(2px, 2px);}
+  50% {transform: translate(-2px, -2px);}
+  60% {transform: translate(2px, -2px);}
+  70% {transform: translate(-2px, 2px);}
+  80% {transform: translate(-2px, -2px);}
+  90% {transform: translate(2px, -2px);}
+  100% { transform: translate(0);}
+
+  0% {transform: translate(0);}
+  10% {transform: translate(-2px, -2px);}
+  20% {transform: translate(2px, -2px);}
+  30% {transform: translate(-2px, 2px);}
+  40% {transform: translate(2px, 2px);}
+  50% {transform: translate(-2px, -2px);}
+  60% {transform: translate(2px, -2px);}
+  70% {transform: translate(-2px, 2px);}
+  80% {transform: translate(-2px, -2px);}
+  90% {transform: translate(2px, -2px);}
+  100% {transform: translate(0);}
+
+  0% {transform: translate(0);}
+  10% {transform: translate(-2px, -2px);}
+  20% {transform: translate(2px, -2px);}
+  30% {transform: translate(-2px, 2px);}
+  40% {transform: translate(2px, 2px);}
+  50% {transform: translate(-2px, -2px);}
+  60% {transform: translate(2px, -2px);}
+  70% {transform: translate(-2px, 2px);}
+  80% {transform: translate(-2px, -2px);}
+  90% {transform: translate(2px, -2px);}
+  100% {transform: translate(0);}
+
+  0% { transform: translate(0);}
+  10% {transform: translate(-2px, -2px);}
+  20% {transform: translate(2px, -2px);}
+  30% {transform: translate(-2px, 2px);}
+  40% {transform: translate(2px, 2px);}
+  50% {transform: translate(-2px, -2px);}
+  60% {transform: translate(2px, -2px);}
+  70% {transform: translate(-2px, 2px);}
+  80% {transform: translate(-2px, -2px);}
+  90% {transform: translate(2px, -2px);}
+  100% {transform: translate(0);}
 }
+
+
 
 
 iframe{
