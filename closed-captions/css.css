@@ -451,8 +451,8 @@ body{
 }
 .sound17 iframe{
 	animation: shakes10 .1s;
- 	animation-iteration-count: 215;
-    background:blue;
+ 	animation-iteration-count: 107.5;
+    background:green;
  }
 
 @keyframes shakes10 {
