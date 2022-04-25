@@ -103,8 +103,6 @@ Sounds.
 	style anything within the body the moment
 	a sound starts.
 *********************************************  */
-
-
 .sound0 iframe  {
 	animation: shake .2s;
  	animation-iteration-count: 8;
@@ -123,71 +121,6 @@ Sounds.
   	90% { transform: translate(1px, 2px) rotate(0deg); }
   	100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
-
-iframe{
-	/*clip-path: inset(10em 0);*/
-}
-
-
-/*MIJN CODE*/
-
-.p41.on{
-	top: 23.65em;
-}
-.p42.on{
-	top: 24.85em;
-}
-.p43.on{
-	top: 26.05em;
-}
-
-
-#video-placeholder{
-	display: block;
-	margin:auto;
-	padding: 5em;
-}
-
-#closed-captions p{
-	text-align: center;
-	width: 100%;
-}
-
-
-.voice1 {
-	color: #70b62c;
-	font-family: "brenner slab";
-	font-size: 1.5em;
-	text-shadow: 0 0 10px #6ebc80, 0 0 30px #6ebc80
-}
-
-
-.voice2 {
-	color: white;
-	font-family: "brenner Sans";
-	font-size: 1.5em;
-}
-
-.voice3{
-	color: #ff0000;
-	font-family: "brenner sans";
-	text-transform: uppercase;
-}
-
-.voice4{
-	color: purple;
-}
-
-.voice5 {
-	color: red;
-}
-
-body{
-	background: black;
-}
-
-
-/*ACHTERGROND MET KEYFRAMES*/
 
 .sound1 {
 	animation-name:  alarm;
@@ -236,7 +169,6 @@ body{
 		background: black;
 	}
 }
-
 
 .sound3, .sound5, .sound7 iframe{
 	animation: heartbeat 1s linear both;
@@ -294,9 +226,69 @@ body{
   }
 }
 
+/*MIJN CODE*/
+
+.p41.on{
+	top: 23.65em;
+}
+.p42.on{
+	top: 24.85em;
+}
+.p43.on{
+	top: 26.05em;
+}
+
+iframe{
+	/*clip-path: inset(10em 0);*/
+}
+
+#video-placeholder{
+	display: block;
+	margin:auto;
+	padding: 5em;
+}
+
+#closed-captions p{
+	text-align: center;
+	width: 100%;
+}
+
+
+.voice1 {
+	color: #70b62c;
+	font-family: "brenner slab";
+	font-size: 1.5em;
+	text-shadow: 0 0 10px #6ebc80, 0 0 30px #6ebc80
+}
+
+
+.voice2 {
+	color: white;
+	font-family: "brenner Sans";
+	font-size: 1.5em;
+}
+
+.voice3{
+	color: #ff0000;
+	font-family: "brenner sans";
+	text-transform: uppercase;
+}
+
+.voice4{
+	color: purple;
+}
+
+.voice5 {
+	color: red;
+}
+
+body{
+	background: black;
+}
 
 
 
+/*TRIL SOUND 8*/
 .sound8 iframe {
 /*	animation:vibrate-1 1.9s linear infinite both;
 	animation:vibrate-2 1.7s linear infinite both;
