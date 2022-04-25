@@ -451,7 +451,7 @@ body{
 }
 .sound17 iframe{
 	animation: shakes10 .1s;
- 	animation-iteration-count: 107.5;
+ 	animation-iteration-count: 50;
     background:green;
  }
 
