@@ -149,21 +149,21 @@ Sounds.
 	animation-duration:  1s;
 }
 
-.sound1 {
-	animation-name:  alarm-background;
-	animation-duration:  1s;
-}
-
 @keyframes alarm-frame {
 	0% {
 		transform: scale(1);
 	}
 	 90% {
-    transform: scale(1.1);
-  }
+    	transform: scale(1.1);
+  	}
 	100%{
 		transform: scale(1);
 	}
+}
+
+.sound1 {
+	animation-name:  alarm-background;
+	animation-duration:  1s;
 }
 
 @keyframes alarm-background {
