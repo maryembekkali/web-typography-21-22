@@ -290,25 +290,43 @@ body{
 .sound8 iframe  {
 	animation: shakes 1s;
  	animation-iteration-count: 21.5;
- 	animation: shakes .9s;
+ }
+.sound9 iframe{
+	animation: shakes .9s;
  	animation-iteration-count: 21.5;
- 	animation: shakes .8s;
+ }
+.sound10 iframe{
+	animation: shakes .8s;
  	animation-iteration-count: 21.5;
- 	animation: shakes .7s;
+ }
+.sound11 iframe{
+	animation: shakes .7s;
  	animation-iteration-count: 21.5;
- 	animation: shakes .6s;
+ }
+.sound12 iframe{
+	animation: shakes .6s;
  	animation-iteration-count: 21.5;
- 	animation: shakes .5s;
+ }
+.sound13 iframe{
+	animation: shakes .5s;
  	animation-iteration-count: 21.5;
- 	animation: shakes .4s;
+ }
+.sound14 iframe{
+	animation: shakes .4s;
  	animation-iteration-count: 21.5;
- 	animation: shakes .3s;
+ }
+.sound15 iframe{
+	animation: shakes .3s;
  	animation-iteration-count: 21.5;
- 	animation: shakes .2s;
+ }
+.sound16 iframe{
+	animation: shakes .2s;
  	animation-iteration-count: 21.5;
- 	animation: shakes .1s;
+ }
+.sound17 iframe{
+	animation: shakes .1s;
  	animation-iteration-count: 21.5;
-}
+ }
 
 @keyframes shakes {
   	0% { transform: translate(1px, 1px) rotate(0deg); }
