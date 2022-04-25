@@ -238,7 +238,7 @@ body{
 }
 
 
-.sound3, .sound5 iframe{
+.sound3, .sound5, .sound7 iframe{
 	animation: heartbeat 1s linear both;
 }
 
@@ -268,7 +268,7 @@ body{
 
 
 
-.sound4, .sound6 iframe{
+.sound4, .sound6, .sound8 iframe{
 	animation: wobble-hor-bottom 0.8s both;
 }
 
