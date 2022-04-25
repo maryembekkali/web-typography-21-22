@@ -170,7 +170,15 @@ Sounds.
 	}
 }
 
-.sound3, .sound5, .sound7 iframe{
+.sound3 iframe{
+	animation: heartbeat 1s linear both;
+}
+
+.sound5 iframe{
+	animation: heartbeat 1s linear both;
+}
+
+.sound7 iframe{
 	animation: heartbeat 1s linear both;
 }
 
@@ -198,9 +206,15 @@ Sounds.
   }
 }
 
+.sound4 iframe{
+	animation: wobble-hor-bottom 0.8s both;
+}
 
+.sound6 iframe{
+	animation: wobble-hor-bottom 0.8s both;
+}
 
-.sound4, .sound6, .sound8 iframe{
+.sound8 iframe{
 	animation: wobble-hor-bottom 0.8s both;
 }
 
