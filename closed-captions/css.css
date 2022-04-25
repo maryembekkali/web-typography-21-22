@@ -307,7 +307,7 @@ body{
 }
 .sound9 iframe{
 	animation: shakes2 .9s;
- 	animation-iteration-count: 21.5;
+ 	animation-iteration-count: 23.9;
     background:blue;
  }
  @keyframes shakes2 {
@@ -325,7 +325,7 @@ body{
 }
 .sound10 iframe{
 	animation: shakes3 .8s;
- 	animation-iteration-count: 21.5;
+ 	animation-iteration-count: 26.9;
     background:yellow;
  }
  @keyframes shakes3 {
@@ -343,7 +343,7 @@ body{
 }
 .sound11 iframe{
 	animation: shakes4 .7s;
- 	animation-iteration-count: 21.5;
+ 	animation-iteration-count: 30.7;
     background:blue;
  }
  @keyframes shakes4 {
@@ -361,7 +361,7 @@ body{
 }
 .sound12 iframe{
 	animation: shakes5 .6s;
- 	animation-iteration-count: 21.5;
+ 	animation-iteration-count: 35.8;
     background:yellow;
  }
  @keyframes shakes5 {
@@ -379,7 +379,7 @@ body{
 }
 .sound13 iframe{
 	animation: shakes6 .5s;
- 	animation-iteration-count: 21.5;
+ 	animation-iteration-count: 43;
     background:blue;
  }
  @keyframes shakes6 {
@@ -397,7 +397,7 @@ body{
 }
 .sound14 iframe{
 	animation: shakes7 .4s;
- 	animation-iteration-count: 21.5;
+ 	animation-iteration-count: 53.8;
     background:yellow;
  }
  @keyframes shakes7 {
@@ -415,7 +415,7 @@ body{
 }
 .sound15 iframe{
 	animation: shakes8 .3s;
- 	animation-iteration-count: 21.5;
+ 	animation-iteration-count: 71.7;
     background:blue;
  }
  @keyframes shakes8 {
@@ -433,7 +433,7 @@ body{
 }
 .sound16 iframe{
 	animation: shakes9 .2s;
- 	animation-iteration-count: 21.5;
+ 	animation-iteration-count: 107.5;
     background:yellow;
  }
  @keyframes shakes9 {
@@ -451,7 +451,7 @@ body{
 }
 .sound17 iframe{
 	animation: shakes10 .1s;
- 	animation-iteration-count: 30;
+ 	animation-iteration-count: 215;
     background:blue;
  }
 
