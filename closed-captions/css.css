@@ -289,7 +289,7 @@ body{
 
 .sound8 iframe  {
 	animation: shakes .2s;
- 	animation-iteration-count: 8;
+ 	animation-iteration-count: 215;
 }
 
 @keyframes shakes {
