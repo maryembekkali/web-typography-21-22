@@ -242,7 +242,7 @@ body{
 
 
 .sound8 iframe {
-	animation:vibrate-1 1.9s linear infinite both;
+/*	animation:vibrate-1 1.9s linear infinite both;
 	animation:vibrate-2 1.7s linear infinite both;
 	animation:vibrate-3 1.5s linear infinite both;
 	animation:vibrate-4 1.3s linear infinite both;
@@ -251,28 +251,313 @@ body{
 	animation:vibrate-7 0.7s linear infinite both;
 	animation:vibrate-8 0.5s linear infinite both;
 	animation:vibrate-9 0.3s linear infinite both;
-	animation:vibrate-10 0.1s linear infinite both;
+	animation:vibrate-10 0.1s linear infinite both;*/
+	animation:vibrate-1 1.9s linear both;
+	animation-iteration-count: 1;
+	animation:vibrate-2 1.7s linear both;
+	animation-iteration-count: 1;
+	animation:vibrate-3 1.5s linear both;
+	animation-iteration-count: 1;
+	animation:vibrate-4 1.3s linear both;
+	animation-iteration-count: 1;
+	animation:vibrate-5 1.1s linear both;
+	animation-iteration-count: 1;
+	animation:vibrate-6 0.9s linear both;
+	animation-iteration-count: 1;
+	animation:vibrate-7 0.7s linear both;
+	animation-iteration-count: 1;
+	animation:vibrate-8 0.5s linear both;
+	animation-iteration-count: 1;
+	animation:vibrate-9 0.3s linear both;
+	animation-iteration-count: 1;
+	animation:vibrate-10 0.1s linear both;
+	animation-iteration-count: 1;
 }
 
-@keyframes vibrate-1{0%{transform:translate(0)}10%{transform:translate(-2px,-2px)}20%{transform:translate(2px,-2px)}30%{transform:translate(-2px,2px)}40%{transform:translate(2px,2px)}50%{transform:translate(-2px,-2px)}60%{transform:translate(2px,-2px)}70%{transform:translate(-2px,2px)}80%{transform:translate(-2px,-2px)}90%{transform:translate(2px,-2px)}100%{transform:translate(0)}}
+@keyframes vibrate-1{
+	0%{transform:translate(0)}
+	10%{transform:translate(-.1px,-.1px)}
+	20%{transform:translate(.1px,-.1px)}
+	30%{transform:translate(-.1px,.1px)}
+	40%{transform:translate(.1px,.1px)}
+	50%{transform:translate(-.1px,-.1px)}
+	60%{transform:translate(.1px,-.1px)}
+	70%{transform:translate(-.1px,.1px)}
+	80%{transform:translate(-.1px,-.1px)}
+	90%{transform:translate(.1px,-.1px)}
+	100%{transform:translate(0)}
+}
 
-@keyframes vibrate-2{0%{transform:translate(0)}10%{transform:translate(-2px,-2px)}20%{transform:translate(2px,-2px)}30%{transform:translate(-2px,2px)}40%{transform:translate(2px,2px)}50%{transform:translate(-2px,-2px)}60%{transform:translate(2px,-2px)}70%{transform:translate(-2px,2px)}80%{transform:translate(-2px,-2px)}90%{transform:translate(2px,-2px)}100%{transform:translate(0)}}
+@keyframes vibrate-2{
+	0%{transform:translate(0)}
+	10%{transform:translate(-.4px,-.4px)}
+	20%{transform:translate(.4px,-.4px)}
+	30%{transform:translate(-.4px,.4px)}
+	40%{transform:translate(.4px,.4px)}
+	50%{transform:translate(-.4px,-.4px)}
+	60%{transform:translate(.4px,-.4px)}
+	70%{transform:translate(-.4px,.4px)}
+	80%{transform:translate(-.4px,-.4px)}
+	90%{transform:translate(.4px,-.4px)}
+	100%{transform:translate(0)}
+}
 
-@keyframes vibrate-3{0%{transform:translate(0)}10%{transform:translate(-2px,-2px)}20%{transform:translate(2px,-2px)}30%{transform:translate(-2px,2px)}40%{transform:translate(2px,2px)}50%{transform:translate(-2px,-2px)}60%{transform:translate(2px,-2px)}70%{transform:translate(-2px,2px)}80%{transform:translate(-2px,-2px)}90%{transform:translate(2px,-2px)}100%{transform:translate(0)}}
+@keyframes vibrate-3{
+	0%{transform:translate(0)}
+	10%{transform:translate(-.6px,-.6px)}
+	20%{transform:translate(.6px,-.6px)}
+	30%{transform:translate(-.6px,.6px)}
+	40%{transform:translate(.6px,.6px)}
+	50%{transform:translate(-.6px,-.6px)}
+	60%{transform:translate(.6px,-.6px)}
+	70%{transform:translate(-.6px,.6px)}
+	80%{transform:translate(-.6px,-.6px)}
+	90%{transform:translate(.6px,-.6px)}
+	100%{transform:translate(0)}
+}
 
-@keyframes vibrate-4{0%{transform:translate(0)}10%{transform:translate(-2px,-2px)}20%{transform:translate(2px,-2px)}30%{transform:translate(-2px,2px)}40%{transform:translate(2px,2px)}50%{transform:translate(-2px,-2px)}60%{transform:translate(2px,-2px)}70%{transform:translate(-2px,2px)}80%{transform:translate(-2px,-2px)}90%{transform:translate(2px,-2px)}100%{transform:translate(0)}}
+@keyframes vibrate-4{
+	0%{transform:translate(0)}
+	10%{transform:translate(-.8px,-.8px)}
+	20%{transform:translate(.8px,-.8px)}
+	30%{transform:translate(-.8px,.8px)}
+	40%{transform:translate(.8px,.8px)}
+	50%{transform:translate(-.8px,-.8px)}
+	60%{transform:translate(.8px,-.8px)}
+	70%{transform:translate(-.8px,.8px)}
+	80%{transform:translate(-.8px,-.8px)}
+	90%{transform:translate(.8px,-.8px)}
+	100%{transform:translate(0)}
+}
 
-@keyframes vibrate-5{0%{transform:translate(0)}10%{transform:translate(-2px,-2px)}20%{transform:translate(2px,-2px)}30%{transform:translate(-2px,2px)}40%{transform:translate(2px,2px)}50%{transform:translate(-2px,-2px)}60%{transform:translate(2px,-2px)}70%{transform:translate(-2px,2px)}80%{transform:translate(-2px,-2px)}90%{transform:translate(2px,-2px)}100%{transform:translate(0)}}
+@keyframes vibrate-5{
+	0%{transform:translate(0)}
+	10%{transform:translate(-1px,-1px)}
+	20%{transform:translate(1px,-1px)}
+	30%{transform:translate(-1px,1px)}
+	40%{transform:translate(1px,1px)}
+	50%{transform:translate(-1px,-1px)}
+	60%{transform:translate(1px,-1px)}
+	70%{transform:translate(-1px,1px)}
+	80%{transform:translate(-1px,-1px)}
+	90%{transform:translate(1px,-1px)}
+	100%{transform:translate(0)}
+}
 
-@keyframes vibrate-6{0%{transform:translate(0)}10%{transform:translate(-2px,-2px)}20%{transform:translate(2px,-2px)}30%{transform:translate(-2px,2px)}40%{transform:translate(2px,2px)}50%{transform:translate(-2px,-2px)}60%{transform:translate(2px,-2px)}70%{transform:translate(-2px,2px)}80%{transform:translate(-2px,-2px)}90%{transform:translate(2px,-2px)}100%{transform:translate(0)}}
+@keyframes vibrate-6{
+	0%{transform:translate(0)}
+	10%{transform:translate(-1.2px,-1.2px)}
+	20%{transform:translate(1.2px,-1.2px)}
+	30%{transform:translate(-1.2px,1.2px)}
+	40%{transform:translate(1.2px,1.2px)}
+	50%{transform:translate(-1.2px,-1.2px)}
+	60%{transform:translate(1.2px,-1.2px)}
+	70%{transform:translate(-1.2px,1.2px)}
+	80%{transform:translate(-1.2px,-1.2px)}
+	90%{transform:translate(1.2px,-1.2px)}
+	100%{transform:translate(0)}
+}
 
-@keyframes vibrate-7{0%{transform:translate(0)}10%{transform:translate(-2px,-2px)}20%{transform:translate(2px,-2px)}30%{transform:translate(-2px,2px)}40%{transform:translate(2px,2px)}50%{transform:translate(-2px,-2px)}60%{transform:translate(2px,-2px)}70%{transform:translate(-2px,2px)}80%{transform:translate(-2px,-2px)}90%{transform:translate(2px,-2px)}100%{transform:translate(0)}}
+@keyframes vibrate-7{
+	0%{transform:translate(0)}
+	10%{transform:translate(-1.4px,-1.4px)}
+	20%{transform:translate(1.4px,-1.4px)}
+	30%{transform:translate(-1.4px,1.4px)}
+	40%{transform:translate(1.4px,1.4px)}
+	50%{transform:translate(-1.4px,-1.4px)}
+	60%{transform:translate(1.4px,-1.4px)}
+	70%{transform:translate(-1.4px,1.4px)}
+	80%{transform:translate(-1.4px,-1.4px)}
+	90%{transform:translate(1.4px,-1.4px)}
+	100%{transform:translate(0)}
+}
 
-@keyframes vibrate-8{0%{transform:translate(0)}10%{transform:translate(-2px,-2px)}20%{transform:translate(2px,-2px)}30%{transform:translate(-2px,2px)}40%{transform:translate(2px,2px)}50%{transform:translate(-2px,-2px)}60%{transform:translate(2px,-2px)}70%{transform:translate(-2px,2px)}80%{transform:translate(-2px,-2px)}90%{transform:translate(2px,-2px)}100%{transform:translate(0)}}
+@keyframes vibrate-8{
+	0%{transform:translate(0)}
+	10%{transform:translate(-1.6px,-1.6px)}
+	20%{transform:translate(1.6px,-1.6px)}
+	30%{transform:translate(-1.6px,1.6px)}
+	40%{transform:translate(1.6px,1.6px)}
+	50%{transform:translate(-1.6px,-1.6px)}
+	60%{transform:translate(1.6px,-1.6px)}
+	70%{transform:translate(-1.6px,1.6px)}
+	80%{transform:translate(-1.6px,-1.6px)}
+	90%{transform:translate(1.6px,-1.6px)}
+	100%{transform:translate(0)}
+}
 
-@keyframes vibrate-9{0%{transform:translate(0)}10%{transform:translate(-2px,-2px)}20%{transform:translate(2px,-2px)}30%{transform:translate(-2px,2px)}40%{transform:translate(2px,2px)}50%{transform:translate(-2px,-2px)}60%{transform:translate(2px,-2px)}70%{transform:translate(-2px,2px)}80%{transform:translate(-2px,-2px)}90%{transform:translate(2px,-2px)}100%{transform:translate(0)}}
+@keyframes vibrate-9{
+	0%{transform:translate(0)}
+	10%{transform:translate(-1.8px,-1.8px)}
+	20%{transform:translate(1.8px,-1.8px)}
+	30%{transform:translate(-1.8px,1.8px)}
+	40%{transform:translate(1.8px,1.8px)}
+	50%{transform:translate(-1.8px,-1.8px)}
+	60%{transform:translate(1.8px,-1.8px)}
+	70%{transform:translate(-1.8px,1.8px)}
+	80%{transform:translate(-1.8px,-1.8px)}
+	90%{transform:translate(1.8px,-1.8px)}
+	100%{transform:translate(0)}
+}
 
-@keyframes vibrate-10{0%{transform:translate(0)}10%{transform:translate(-2px,-2px)}20%{transform:translate(2px,-2px)}30%{transform:translate(-2px,2px)}40%{transform:translate(2px,2px)}50%{transform:translate(-2px,-2px)}60%{transform:translate(2px,-2px)}70%{transform:translate(-2px,2px)}80%{transform:translate(-2px,-2px)}90%{transform:translate(2px,-2px)}100%{transform:translate(0)}
+@keyframes vibrate-10{
+	0%{transform:translate(0)}
+	10%{transform:translate(-2px,-2px)}
+	20%{transform:translate(2px,-2px)}
+	30%{transform:translate(-2px,2px)}
+	40%{transform:translate(2px,2px)}
+	50%{transform:translate(-2px,-2px)}
+	60%{transform:translate(2px,-2px)}
+	70%{transform:translate(-2px,2px)}
+	80%{transform:translate(-2px,-2px)}
+	90%{transform:translate(2px,-2px)}
+	100%{transform:translate(0)
+}
+
+
+
+
+/*@keyframes vibrate-1{
+	0%{transform:translate(0)}
+	10%{transform:translate(-.1px,-.1px)}
+	20%{transform:translate(.1px,-.1px)}
+	30%{transform:translate(-.1px,.1px)}
+	40%{transform:translate(.1px,.1px)}
+	50%{transform:translate(-.1px,-.1px)}
+	60%{transform:translate(.1px,-.1px)}
+	70%{transform:translate(-.1px,.1px)}
+	80%{transform:translate(-.1px,-.1px)}
+	90%{transform:translate(.1px,-.1px)}
+	100%{transform:translate(0)}
+}
+
+@keyframes vibrate-2{
+	0%{transform:translate(0)}
+	10%{transform:translate(-.4px,-.4px)}
+	20%{transform:translate(.4px,-.4px)}
+	30%{transform:translate(-.4px,.4px)}
+	40%{transform:translate(.4px,.4px)}
+	50%{transform:translate(-.4px,-.4px)}
+	60%{transform:translate(.4px,-.4px)}
+	70%{transform:translate(-.4px,.4px)}
+	80%{transform:translate(-.4px,-.4px)}
+	90%{transform:translate(.4px,-.4px)}
+	100%{transform:translate(0)}
+}
+
+@keyframes vibrate-3{
+	0%{transform:translate(0)}
+	10%{transform:translate(-.6px,-.6px)}
+	20%{transform:translate(2px,-2px)}
+	30%{transform:translate(-2px,2px)}
+	40%{transform:translate(2px,2px)}
+	50%{transform:translate(-2px,-2px)}
+	60%{transform:translate(2px,-2px)}
+	70%{transform:translate(-2px,2px)}
+	80%{transform:translate(-2px,-2px)}
+	90%{transform:translate(2px,-2px)}
+	100%{transform:translate(0)}
+}
+
+@keyframes vibrate-4{
+	0%{transform:translate(0)}
+	10%{transform:translate(-.8px,-.8px)}
+	20%{transform:translate(2px,-2px)}
+	30%{transform:translate(-2px,2px)}
+	40%{transform:translate(2px,2px)}
+	50%{transform:translate(-2px,-2px)}
+	60%{transform:translate(2px,-2px)}
+	70%{transform:translate(-2px,2px)}
+	80%{transform:translate(-2px,-2px)}
+	90%{transform:translate(2px,-2px)}
+	100%{transform:translate(0)}
+}
+
+@keyframes vibrate-5{
+	0%{transform:translate(0)}
+	10%{transform:translate(-1px,-1px)}
+	20%{transform:translate(2px,-2px)}
+	30%{transform:translate(-2px,2px)}
+	40%{transform:translate(2px,2px)}
+	50%{transform:translate(-2px,-2px)}
+	60%{transform:translate(2px,-2px)}
+	70%{transform:translate(-2px,2px)}
+	80%{transform:translate(-2px,-2px)}
+	90%{transform:translate(2px,-2px)}
+	100%{transform:translate(0)}
+}
+
+@keyframes vibrate-6{
+	0%{transform:translate(0)}
+	10%{transform:translate(-1.2px,-1.2px)}
+	20%{transform:translate(2px,-2px)}
+	30%{transform:translate(-2px,2px)}
+	40%{transform:translate(2px,2px)}
+	50%{transform:translate(-2px,-2px)}
+	60%{transform:translate(2px,-2px)}
+	70%{transform:translate(-2px,2px)}
+	80%{transform:translate(-2px,-2px)}
+	90%{transform:translate(2px,-2px)}
+	100%{transform:translate(0)}
+}
+
+@keyframes vibrate-7{
+	0%{transform:translate(0)}
+	10%{transform:translate(-1.4px,-1.4px)}
+	20%{transform:translate(2px,-2px)}
+	30%{transform:translate(-2px,2px)}
+	40%{transform:translate(2px,2px)}
+	50%{transform:translate(-2px,-2px)}
+	60%{transform:translate(2px,-2px)}
+	70%{transform:translate(-2px,2px)}
+	80%{transform:translate(-2px,-2px)}
+	90%{transform:translate(2px,-2px)}
+	100%{transform:translate(0)}
+}
+
+@keyframes vibrate-8{
+	0%{transform:translate(0)}
+	10%{transform:translate(-1.6px,-1.6px)}
+	20%{transform:translate(2px,-2px)}
+	30%{transform:translate(-2px,2px)}
+	40%{transform:translate(2px,2px)}
+	50%{transform:translate(-2px,-2px)}
+	60%{transform:translate(2px,-2px)}
+	70%{transform:translate(-2px,2px)}
+	80%{transform:translate(-2px,-2px)}
+	90%{transform:translate(2px,-2px)}
+	100%{transform:translate(0)}
+}
+
+@keyframes vibrate-9{
+	0%{transform:translate(0)}
+	10%{transform:translate(-1.8px,-1.8px)}
+	20%{transform:translate(2px,-2px)}
+	30%{transform:translate(-2px,2px)}
+	40%{transform:translate(2px,2px)}
+	50%{transform:translate(-2px,-2px)}
+	60%{transform:translate(2px,-2px)}
+	70%{transform:translate(-2px,2px)}
+	80%{transform:translate(-2px,-2px)}
+	90%{transform:translate(2px,-2px)}
+	100%{transform:translate(0)}
+}
+
+@keyframes vibrate-10{
+	0%{transform:translate(0)}
+	10%{transform:translate(-2px,-2px)}
+	20%{transform:translate(2px,-2px)}
+	30%{transform:translate(-2px,2px)}
+	40%{transform:translate(2px,2px)}
+	50%{transform:translate(-2px,-2px)}
+	60%{transform:translate(2px,-2px)}
+	70%{transform:translate(-2px,2px)}
+	80%{transform:translate(-2px,-2px)}
+	90%{transform:translate(2px,-2px)}
+	100%{transform:translate(0)
+}*/
+
+
 
 
 
