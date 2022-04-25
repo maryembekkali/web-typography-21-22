@@ -288,8 +288,26 @@ body{
 }
 
 .sound8 iframe  {
-	animation: shakes .2s;
- 	animation-iteration-count: 215;
+	animation: shakes 1.9s;
+ 	animation-iteration-count: 21.5;
+ 	animation: shakes 1.7s;
+ 	animation-iteration-count: 21.5;
+ 	animation: shakes 1.5s;
+ 	animation-iteration-count: 21.5;
+ 	animation: shakes 1.3s;
+ 	animation-iteration-count: 21.5;
+ 	animation: shakes 1.1s;
+ 	animation-iteration-count: 21.5;
+ 	animation: shakes .9s;
+ 	animation-iteration-count: 21.5;
+ 	animation: shakes .7s;
+ 	animation-iteration-count: 21.5;
+ 	animation: shakes .5s;
+ 	animation-iteration-count: 21.5;
+ 	animation: shakes .3s;
+ 	animation-iteration-count: 21.5;
+ 	animation: shakes .1s;
+ 	animation-iteration-count: 21.5;
 }
 
 @keyframes shakes {
