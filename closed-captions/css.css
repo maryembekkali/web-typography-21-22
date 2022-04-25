@@ -306,11 +306,11 @@ body{
   	100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 .sound9 iframe{
-	animation: shakes .9s;
+	animation: shakes2 .9s;
  	animation-iteration-count: 21.5;
     background:blue;
  }
- @keyframes shakes {
+ @keyframes shakes2 {
   	0% { transform: translate(1px, 1px) rotate(0deg); }
   	10% { transform: translate(-1px, -2px) rotate(-1deg); }
   	20% { transform: translate(-3px, 0px) rotate(1deg); }
@@ -324,11 +324,11 @@ body{
   	100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 .sound10 iframe{
-	animation: shakes .8s;
+	animation: shakes3 .8s;
  	animation-iteration-count: 21.5;
     background:yellow;
  }
- @keyframes shakes {
+ @keyframes shakes3 {
   	0% { transform: translate(1px, 1px) rotate(0deg); }
   	10% { transform: translate(-1px, -2px) rotate(-1deg); }
   	20% { transform: translate(-3px, 0px) rotate(1deg); }
@@ -342,11 +342,11 @@ body{
   	100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 .sound11 iframe{
-	animation: shakes .7s;
+	animation: shakes4 .7s;
  	animation-iteration-count: 21.5;
     background:blue;
  }
- @keyframes shakes {
+ @keyframes shakes4 {
   	0% { transform: translate(1px, 1px) rotate(0deg); }
   	10% { transform: translate(-1px, -2px) rotate(-1deg); }
   	20% { transform: translate(-3px, 0px) rotate(1deg); }
@@ -360,11 +360,11 @@ body{
   	100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 .sound12 iframe{
-	animation: shakes .6s;
+	animation: shakes5 .6s;
  	animation-iteration-count: 21.5;
     background:yellow;
  }
- @keyframes shakes {
+ @keyframes shakes5 {
   	0% { transform: translate(1px, 1px) rotate(0deg); }
   	10% { transform: translate(-1px, -2px) rotate(-1deg); }
   	20% { transform: translate(-3px, 0px) rotate(1deg); }
@@ -378,11 +378,11 @@ body{
   	100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 .sound13 iframe{
-	animation: shakes .5s;
+	animation: shakes6 .5s;
  	animation-iteration-count: 21.5;
     background:blue;
  }
- @keyframes shakes {
+ @keyframes shakes6 {
   	0% { transform: translate(1px, 1px) rotate(0deg); }
   	10% { transform: translate(-1px, -2px) rotate(-1deg); }
   	20% { transform: translate(-3px, 0px) rotate(1deg); }
@@ -396,11 +396,11 @@ body{
   	100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 .sound14 iframe{
-	animation: shakes .4s;
+	animation: shakes7 .4s;
  	animation-iteration-count: 21.5;
     background:yellow;
  }
- @keyframes shakes {
+ @keyframes shakes7 {
   	0% { transform: translate(1px, 1px) rotate(0deg); }
   	10% { transform: translate(-1px, -2px) rotate(-1deg); }
   	20% { transform: translate(-3px, 0px) rotate(1deg); }
@@ -414,11 +414,11 @@ body{
   	100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 .sound15 iframe{
-	animation: shakes .3s;
+	animation: shakes8 .3s;
  	animation-iteration-count: 21.5;
     background:blue;
  }
- @keyframes shakes {
+ @keyframes shakes8 {
   	0% { transform: translate(1px, 1px) rotate(0deg); }
   	10% { transform: translate(-1px, -2px) rotate(-1deg); }
   	20% { transform: translate(-3px, 0px) rotate(1deg); }
@@ -432,11 +432,11 @@ body{
   	100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 .sound16 iframe{
-	animation: shakes .2s;
+	animation: shakes9 .2s;
  	animation-iteration-count: 21.5;
     background:yellow;
  }
- @keyframes shakes {
+ @keyframes shakes9 {
   	0% { transform: translate(1px, 1px) rotate(0deg); }
   	10% { transform: translate(-1px, -2px) rotate(-1deg); }
   	20% { transform: translate(-3px, 0px) rotate(1deg); }
@@ -450,12 +450,12 @@ body{
   	100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 .sound17 iframe{
-	animation: shakes .1s;
+	animation: shakes10 .1s;
  	animation-iteration-count: 21.5;
     background:blue;
  }
 
-@keyframes shakes {
+@keyframes shakes10 {
   	0% { transform: translate(1px, 1px) rotate(0deg); }
   	10% { transform: translate(-1px, -2px) rotate(-1deg); }
   	20% { transform: translate(-3px, 0px) rotate(1deg); }
