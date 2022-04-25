@@ -128,6 +128,7 @@ Sounds.
 
 .sound8 iframe {
 	animation: vibrate-3 3s linear infinite both;
+	animation-duration: 43s;
 }
 
 @keyframes vibrate-3 {
