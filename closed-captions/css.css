@@ -122,7 +122,7 @@ Sounds.
   	100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 
-.sound1 {
+/*.sound1 {
 	animation-name:  alarm;
 	animation-duration:  1s;
 }
@@ -142,7 +142,42 @@ Sounds.
 		background: black;
 		transform: scale(1);
 	}
+}*/
+
+.sound1 iframe{
+	animation-name:  alarm-frame;
+	animation-duration:  1s;
 }
+
+.sound1 {
+	animation-name:  alarm-background;
+	animation-duration:  1s;
+}
+
+@keyframes alarm-frame {
+	0% {
+		transform: scale(1);
+	}
+	 90% {
+    transform: scale(1.1);
+  }
+	100%{
+		transform: scale(1);
+	}
+}
+
+@keyframes alarm-background {
+	0% {
+		background: #af0000;
+	}
+	80% {
+		background: #af0000;
+  	}
+	100%{
+		background: black;
+	}
+}
+
 
 .sound2 {
 	animation-name: alarm2;
