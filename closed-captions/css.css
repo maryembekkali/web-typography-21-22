@@ -190,7 +190,7 @@ body{
 
 
 /*ACHTERGROND MET KEYFRAMES*/
-.sound1 {
+/*.sound1 {
 	animation: scale-up-down;
 	animation-duration: 1.2s;
 }
@@ -205,7 +205,7 @@ body{
   100% {
     transform: scale(1);
   }
-}
+}*/
 
 .sound1 {
 	animation-name:  alarm;
@@ -215,12 +215,17 @@ body{
 @keyframes alarm {
 	0% {
 		background: #af0000;
+		transform: scale(1);
 	}
 	80% {
 		background: #af0000;
 	}
+	 90% {
+    transform: scale(1.1);
+  }
 	100%{
 		background: black;
+		transform: scale(1);
 	}
 }
 
