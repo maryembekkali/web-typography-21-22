@@ -240,7 +240,7 @@ Sounds.
 }
 
 iframe{
-	clip-path: inset(10em 0);
+	/*clip-path: inset(10em 0);*/
 }
 
 #video-placeholder{
@@ -442,7 +442,7 @@ body{
 }
 .sound17 iframe{
 	animation: shakes10 .1s;
- 	animation-iteration-count: 50;
+ 	animation-iteration-count: 45;
  }
 
 @keyframes shakes10 {
