@@ -51,25 +51,38 @@ Sounds.
   	100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 
-.sound1 {
-	animation-name:  alarm;
-	animation-duration:  1s;
+.sound1 iframe {
+	animation-name:  alarm1;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
 }
 
-@keyframes alarm {
+@keyframes alarm1 {
+	0% {
+		transform: scale(1);
+	}
+	 90% {
+       transform: scale(1.1);
+  }
+	100%{
+		transform: scale(1);
+	}
+}
+ 
+.sound1 {
+  animation-name: alarm-kleur;
+  animation-duration: 1s;
+}
+
+@keyframes alarm-kleur {
 	0% {
 		background: #af0000;
-		transform: scale(1);
 	}
 	80% {
 		background: #af0000;
-	}
-	 90% {
-    transform: scale(1.1);
   }
 	100%{
 		background: black;
-		transform: scale(1);
 	}
 }
 
