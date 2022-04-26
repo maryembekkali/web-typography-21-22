@@ -9,6 +9,7 @@ Feel free to adjust the defaults to your needs.
 	opacity: 0;
 	transition: .05s;
 	position: absolute;
+	top: 21em;
 }
 #closed-captions .on {
 	opacity: 1;
@@ -24,6 +25,33 @@ iframe{
 
 body{
 	background: black;
+}
+
+/*VIDEO EN TEXT IN HET MIDDEN*/
+#video-placeholder{
+	display: block;
+	margin:auto;
+	padding: 5em;
+
+/*	width:840px;
+    height:473px;*/
+}
+
+#closed-captions p{
+	text-align: center;
+	width: 100%;
+}
+
+
+/*TEXT GROOTTE*/
+.p41.on{
+	top: 23.65em;
+}
+.p42.on{
+	top: 24.85em;
+}
+.p43.on{
+	top: 26.05em;
 }
 
 /* **********************************************
@@ -466,6 +494,8 @@ Sounds.
 	color: #ff0000;
 	font-family: "brenner sans";
 	text-transform: uppercase;
+	top: 40.6em; 
+    font-size:.9em;
 }
 
 .voice4{
@@ -474,28 +504,4 @@ Sounds.
 
 .voice5 {
 	color: red;
-}
-
-/*VIDEO EN TEXT IN HET MIDDEN*/
-#video-placeholder{
-	display: block;
-	margin:auto;
-	padding: 5em;
-}
-
-#closed-captions p{
-	text-align: center;
-	width: 100%;
-}
-
-
-/*TEXT GROOTTE*/
-.p41.on{
-	top: 23.65em;
-}
-.p42.on{
-	top: 24.85em;
-}
-.p43.on{
-	top: 26.05em;
 }
