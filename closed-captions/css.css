@@ -9,7 +9,7 @@ Feel free to adjust the defaults to your needs.
 	opacity: 0;
 	transition: .05s;
 	position: absolute;
-	top: 21em;
+	/*top: 21em;*/
 }
 #closed-captions .on {
 	opacity: 1;
@@ -494,8 +494,8 @@ Sounds.
 	color: #ff0000;
 	font-family: "brenner sans";
 	text-transform: uppercase;
-	top: 40.6em; 
-    font-size:.9em;
+/*	top: 40.6em; 
+    font-size:.9em;*/
 }
 
 .voice4{
