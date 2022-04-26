@@ -237,8 +237,6 @@ Sounds.
 
 .sound8 iframe {
 	animation: wobble-hor-bottom3 0.8s both;
-	animation: shakes 1s;
- 	animation-iteration-count: 21.5;
 }
 
 @keyframes wobble-hor-bottom3 {
@@ -263,9 +261,10 @@ Sounds.
   }
 }
 
-/*.sound8 iframe {
-	
- }*/
+.sound8 iframe {
+	animation: shakes 1s;
+ 	animation-iteration-count: 21.5;
+ }
  @keyframes shakes {
   	0% { transform: translate(1px, 1px) rotate(0deg); }
   	10% { transform: translate(-1px, -2px) rotate(-1deg); }
