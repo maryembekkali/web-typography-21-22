@@ -9,7 +9,6 @@ Feel free to adjust the defaults to your needs.
 	opacity: 0;
 	transition: .05s;
 	position: absolute;
-	/*top: 21em;*/
 }
 #closed-captions .on {
 	opacity: 1;
@@ -480,7 +479,8 @@ Sounds.
 	color: #70b62c;
 	font-family: "brenner slab";
 	font-size: 1.5em;
-	text-shadow: 0 0 10px #6ebc80, 0 0 30px #6ebc80
+	text-shadow: 0 0 10px #6ebc80, 0 0 30px #6ebc80;
+	top: 21em;
 }
 
 
@@ -488,20 +488,25 @@ Sounds.
 	color: white;
 	font-family: "brenner Sans";
 	font-size: 1.5em;
+	top: 21em;
 }
 
 .voice3{
 	color: #ff0000;
 	font-family: "brenner sans";
 	text-transform: uppercase;
-/*	top: 40.6em; 
-    font-size:.9em;*/
+	top: 36em; 
+    font-size:.9em;
 }
 
 .voice4{
 	color: purple;
+	font-size: 1.5em;
+	top: 21em;
 }
 
 .voice5 {
 	color: red;
+	font-size: 1.5em;
+	top: 21em;
 }
