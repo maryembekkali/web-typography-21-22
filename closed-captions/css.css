@@ -475,7 +475,6 @@ Sounds.
 
 /*VOICES*/
 .voice1 {
-	font-style: italic;
 	color: #70b62c;
 	font-family: "brenner slab";
 	font-size: 1.5em;
@@ -500,7 +499,8 @@ Sounds.
 }
 
 .voice4{
-	color: #70b62c;
+	font-style: italic;
+	color: white;
 	font-family: "brenner slab";
 	font-size: 1.5em;
 	text-shadow: 0 0 10px #6ebc80, 0 0 30px #6ebc80;
