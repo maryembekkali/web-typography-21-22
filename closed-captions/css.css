@@ -499,7 +499,7 @@ Sounds.
 }
 
 .voice4{
-/* 	font-style: italic; */
+ 	font-style: italic; 
 	color: white;
 	font-family: "brenner regular";
 	font-size: 1.5em;
@@ -509,9 +509,21 @@ Sounds.
 }
 
 .voice5 {
- 	color: #01a6e1;
+/* 	color: #01a6e1;
 	font-family: "brenner slab";
 	font-size: 1.5em;
 	text-shadow: 0 0 15px #44c8ff, 0 0 24px #44c8ff;
+	top: 21em;*/
+
+  	color: #54b0a7;
+	font-family: "brenner slab";
+	font-size: 1.5em;
+	text-shadow: 0 0 15px #92c7bc, 0 0 24px #92c7bc;
 	top: 21em;
+
+/*    	color: #4da4af;
+	font-family: "brenner slab";
+	font-size: 1.5em;
+	text-shadow: 0 0 15px #91c9ce, 0 0 24px #91c9ce;
+	top: 21em; */
 }
