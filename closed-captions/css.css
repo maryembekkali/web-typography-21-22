@@ -509,7 +509,9 @@ Sounds.
 }
 
 .voice5 {
-	color: red;
+ 	color: #01a6e1;
+	font-family: "brenner slab";
 	font-size: 1.5em;
+	text-shadow: 0 0 15px #44c8ff, 0 0 24px #44c8ff;
 	top: 21em;
 }
