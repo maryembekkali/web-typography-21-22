@@ -137,3 +137,15 @@ function sTimes(num,soundStarts,curT) {
 	}
 })();
 
+
+function sTimess(num,soundStarts,curT) {
+	var soundClass = 'color' + num;
+	var b = document.querySelector('body');
+	if( curT > soundStarts && !b.classList.contains(soundClass)) {
+		b.classList.add(soundClass);
+	}
+	if( curT < soundStarts && b.classList.contains(soundClass)) {
+		b.classList.remove(soundClass);
+	}
+}
+
