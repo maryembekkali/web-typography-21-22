@@ -473,6 +473,10 @@ Sounds.
   	100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 
+.sound19 {
+
+}
+
 /*VOICES*/
 .voice1 {
 	color: #70b62c;
@@ -528,84 +532,49 @@ Sounds.
 	top: 21em; */
 }
 
-/*ACHTERGRONDKLEUR*/
-.colors0{
-	background: #252e2f;
+//*ACHTERGRONDKLEUR*/
+.sound0{
+	background: #131c1d;
 }
-.colors1{
-	background: #191e21;
+.sound20{
+	background: #1b2124;
 }
-.colors2{
-	background: #324140;
+.sound21{
+	background: #131c1d;
 }
-.colors3{
-	background: #243230;
+.sound22{
+	background: #212d2b;
 }
-.colors4{
-	background: #a6ae9b;
+.sound43{
+	background: #a2ad99;
 }
-.colors5{
-	background: #939f90;
+.sound25{
+	background: #99ada6;
 }
-.colors6{
-	background: #839288;
+.sound26{
+ 	background: #a2ad99;
 }
-.colors7{
-	background: #98a898;
+.sound30{
+	background: #3e443d;
 }
-.colors8{
+.sound32{
 	background: #9cab9b;
 }
-.colors9{
-	background: #99a999;
-}
-.colors10{
-	background: #9cab9b;
-}
-.colors11{
-	background: #4e5551;
-}
-.colors12{
-	background: #2e352d;
-}
-.colors13{
-	background: #99ab9a;
-}
-.colors14{
-	background: #9cab9b;
-}
-.colors15{
-	background: #9aaa9a;
-}
-.colors16{
-	background: #9cab9b;
-}
-.colors17{
-	background: #9aaa9a;
-}
-.colors18{
+.sound36{
 	background: #323932;
 }
-.colors19{
-	background: #2c3331;
+.sound38{
+	background: #212623;
 }
-.colors20{
-	background: #4e5551;
-}
-.colors21{
+.sound39{
 	background: #354741;
 }
-.colors22{
+.sound40{
 	background: #919f8e;
 }
-.colors23{
+.sound41{
 	background: #252e2f;
 }
-.colors24{
+.sound42{
 	background: #9cab9b;
 }
-
-
-
-
-
