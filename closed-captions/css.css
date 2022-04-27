@@ -501,9 +501,10 @@ Sounds.
 .voice4{
 	font-style: italic;
 	color: white;
-	font-family: "brenner slab";
+	font-family: "brenner bold";
 	font-size: 1.5em;
-	text-shadow: 0 0 10px #6ebc80, 0 0 30px #6ebc80;
+	/*text-shadow: 0 0 10px #8fcaef, 0 0 20px #54a4db, 0 0 30px #448ac9, 0 0 40px #277dc1, 0 0 50px #1653a1, 0 0 60px #1e3763, 0 0 70px #152a45;*/
+	text-shadow: 0 0 5px #8fcaef, 0 0 20px #54a4db, 0 0 30px #448ac9, 0 0 40px #277dc1, 0 0 50px #1653a1, 0 0 65px #1e3763, 0 0 80px #152a45;
 	top: 21em;
 }
 
