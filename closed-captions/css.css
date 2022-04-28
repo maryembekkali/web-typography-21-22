@@ -23,7 +23,7 @@ iframe{
 }
 
 body{
-	background: black;
+	background: #0f1314;
 }
 
 /*VIDEO EN TEXT IN HET MIDDEN*/
@@ -479,10 +479,16 @@ Sounds.
 
 /*VOICES*/
 .voice1 {
-	color: #70b62c;
+/*	color: #70b62c;
 	font-family: "brenner slab";
 	font-size: 1.5em;
 	text-shadow: 0 0 10px #6ebc80, 0 0 30px #6ebc80;
+	top: 21em;*/
+
+	color: #2bbe0a;
+	font-family: "brenner slab";
+	font-size: 1.5em;
+	text-shadow: 0 0 10px #3e4740, 0 0 20px #568f61, 0 0 30px #74997c;
 	top: 21em;
 }
 
@@ -503,13 +509,13 @@ Sounds.
 }
 
 .voice4{
- 	font-style: italic; 
-	color: white;
+/*  	font-style: italic;  */
+	color: black;
 	font-family: "brenner regular";
 	font-size: 1.5em;
-	/*text-shadow: 0 0 10px #8fcaef, 0 0 20px #54a4db, 0 0 30px #448ac9, 0 0 40px #277dc1, 0 0 50px #1653a1, 0 0 60px #1e3763, 0 0 70px #152a45;*/
-	text-shadow: 0 0 5px #8fcaef, 0 0 20px #54a4db, 0 0 30px #448ac9, 0 0 40px #277dc1, 0 0 50px #1653a1, 0 0 65px #1e3763, 0 0 80px #152a45;
-	top: 21em;
+/* 	text-shadow: 0 0 10px #8fcaef, 0 0 20px #54a4db, 0 0 30px #448ac9, 0 0 40px #277dc1, 0 0 50px #1653a1, 0 0 60px #1e3763, 0 0 70px #152a45; */
+	text-shadow: 0 0 30px white;
+    top: 21em;
 }
 
 .voice5 {
@@ -519,62 +525,62 @@ Sounds.
 	text-shadow: 0 0 15px #44c8ff, 0 0 24px #44c8ff;
 	top: 21em;*/
 
-  	color: #54b0a7;
-	font-family: "brenner slab";
-	font-size: 1.5em;
-	text-shadow: 0 0 15px #92c7bc, 0 0 24px #92c7bc;
-	top: 21em;
-
 /*    	color: #4da4af;
 	font-family: "brenner slab";
 	font-size: 1.5em;
 	text-shadow: 0 0 15px #91c9ce, 0 0 24px #91c9ce;
 	top: 21em; */
+
+	color: #54b0a7;
+	font-family: "brenner slab";
+	font-size: 1.5em;
+	text-shadow: 0 0 15px #92c7bc, 0 0 24px #92c7bc;
+	top: 21em;
+
+	color: #55cec2;
+	font-family: "brenner slab";
+	font-size: 1.5em;
+ 	text-shadow: 0 0 10px #3e4740, 0 0 20px #568f8b, 0 0 30px #749799;
+	top: 21em;
 }
 
 //*ACHTERGRONDKLEUR*/
-.sound0{
-	background: #131c1d;
-}
 .sound20{
-	background: #1b2124;
+	background: #0d1212;
 }
 .sound21{
-	background: #131c1d;
+	background: #171c1f;
 }
 .sound22{
-	background: #212d2b;
+	background: #454e4d;
 }
 .sound23{
-	background: #a2ad99;
+	background: #808676;
 }
 .sound24{
-	background: #99ada6;
+	background: #75827d;
 }
 .sound25{
- 	background: #a2ad99;
+ 	background: #8b9c8b;
 }
 .sound26{
-	background: #3e443d;
+	background: #3b4440;
 }
 .sound27{
-	background: #9cab9b;
+	background:#1f2824;
 }
 .sound28{
-	background: #323932;
+	background: #8b9c8b;
 }
 .sound29{
-	background: #212623;
+	background: #121819;
 }
 .sound30{
-	background: #354741;
+	background: #1f2824;
 }
 .sound31{
-	background: #919f8e;
+	background:#121819;
 }
 .sound32{
-	background: #252e2f;
-}
-.sound33{
-	background: #9cab9b;
+	background: #8b9c8b;
 }
