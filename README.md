@@ -1,13 +1,35 @@
 # Proces en ontwerpkeuzes
 
 ## Voices
-xxx
+Voice 1 is de interviewer. Hij klinkt streng en bijna als een robot. Daarom heb ik ervoor gekozen om zijn tekst een groene kleur te geven met groen licht eronder. Zo krijgt het de look van een retro computer. Verder heb ik voor deze stem het font Brenner slab gebruikt omdat deze hier het beste bij paste doordat deze er wat blokkerig uitziet.
+
+Voice 2 is officer K. Deze tekst heb ik zo simpel mogelijk gehouden. Zijn stem klikt over het algemeen een beetje monotoon en heeft niet veel emotie. Daarom heb ik gekozen voor het font Brenner Sans in het wit.
+Verder zien we vanaf 1 min 9 sec dat officer K. de woorden 'within cells interlinked' 3 keer herhaalt. Deze tekst heb ik dan ook drie keer onder elkaar in beeld laten verschijnen.
+
+Voice 3 is een cop die lang loopt. Hij schelt officer K. uit op een agressieve manier, maar hij schreeuwt niet. Omdat het agressief klinkt, heb ik de letters rood gemaakt. Omdat zijn stem niet zo hard klinkt en omdat hij bijna fluistert heb ik de lettergrootte kleiner gemaakt.
+
+Voice 4 is de interviewer. Hier praat de interviewer heel rustig en zakelijk. Ik heb de letters daarom zwart gemaakt en heb gekozen voor een wat zakelijkere font.
+
+Voice 5 is ook de interviewer. Hier heeft zijn de stem echter een gehaast gevoel. Daarom wilde ik de stem ook een andere styling geven. Ik heb dezelfde font gebruikt als bij stem 1, alleen heb ik de kleur veranderd naar een blauw/turquoise kleur. Deze heb ik gekozen omdat die ook terug te zien is op de schermen in de scene en omdat het ook weer klinkt als een computer/robot stem.
 
 ## Sounds
-xxx
+0 sec: spannend geluid. Hiervoor heb ik het beeld laten bewegen.
+
+9 sec: alarm. Hiervoor heb ik ingezoomd op het beeld en de achtergrond een rode kleur gegeven.
+
+12 sec: sirene. Het geluid klinkt als een sirene, daarom heb ik de kleuren van het licht van een politie sirene nagebootst op de achtergrond.
+
+15 en 16 sec: machine geluiden. Deze geluiden heb ik voorgegeven door het beeld snel in en uit te zoomen en daarna te wiebelen. Op sec 24 & 25 en 31 & 32 hoor je precies hetzelfde geluid, dus heb ik precies hetzelfde gedaan.
+
+33 sec: piep geluid. Vanaf 33 seconde hoor je een piepgeluid dat steeds harder en hoger klinkt. Hiervoor heb ik het beeld laten bewegen. Het begint met een kleine en langzame beweging. Naarmate het piepgeluid harder en hoger wordt, beweegt het beeld meer en sneller.
+
+1 min 26 sec: spanning geluid. Dit heb ik weergegeven door het beeld langzaam te laten vergroten tot het moment dat de spanning en het geluid stopt.
+
+## Achtergronden
+De achtergrondkleur van de pagina heb mee laten veranderen met het beeld om zo de sfeer van de scenes te benadrukken.
 
 ## Bronnen
-xxx
+How To Create a Glowing Text. (z.d.). W3schools. Geraadpleegd op 29 april 2022, van https://www.w3schools.com/howto/howto_css_glowing_text.aspHow To Shake an Image. (z.d.-a). W3schools. Geraadpleegd op 29 april 2022, van https://www.w3schools.com/howto/howto_css_shake_image.aspHow To Shake an Image. (z.d.-b). W3schools. Geraadpleegd op 29 april 2022, van https://www.w3schools.com/howto/howto_css_shake_image.asppulsate. (z.d.). animista. Geraadpleegd op 29 april 2022, van https://animista.net/play/attention/pulsatescale-up. (z.d.). animista. Geraadpleegd op 29 april 2022, van https://animista.net/play/basic/scale-uptransform - CSS: Cascading Style Sheets | MDN. (2022, 5 april). Developer.Mozilla. Geraadpleegd op 29 april 2022, van https://developer.mozilla.org/en-US/docs/Web/CSS/transformvibrate. (z.d.). animista. Geraadpleegd op 29 april 2022, van https://animista.net/play/attention/vibratevibrate-1. (z.d.). animista. Geraadpleegd op 29 april 2022, van https://animista.net/play/attention/vibrate/vibrate-1wobble. (z.d.). animista. Geraadpleegd op 29 april 2022, van https://animista.net/play/attention/wobble
 
 <!-- # Web Typography, 2020/2021
 
