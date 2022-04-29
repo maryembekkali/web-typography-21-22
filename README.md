@@ -29,7 +29,25 @@ Voice 5 is ook de interviewer. Hier heeft zijn de stem echter een gehaast gevoel
 De achtergrondkleur van de pagina heb mee laten veranderen met het beeld om zo de sfeer van de scenes te benadrukken.
 
 ## Bronnen
-How To Create a Glowing Text. (z.d.). W3schools. Geraadpleegd op 29 april 2022, van https://www.w3schools.com/howto/howto_css_glowing_text.aspHow To Shake an Image. (z.d.-a). W3schools. Geraadpleegd op 29 april 2022, van https://www.w3schools.com/howto/howto_css_shake_image.aspHow To Shake an Image. (z.d.-b). W3schools. Geraadpleegd op 29 april 2022, van https://www.w3schools.com/howto/howto_css_shake_image.asppulsate. (z.d.). animista. Geraadpleegd op 29 april 2022, van https://animista.net/play/attention/pulsatescale-up. (z.d.). animista. Geraadpleegd op 29 april 2022, van https://animista.net/play/basic/scale-uptransform - CSS: Cascading Style Sheets | MDN. (2022, 5 april). Developer.Mozilla. Geraadpleegd op 29 april 2022, van https://developer.mozilla.org/en-US/docs/Web/CSS/transformvibrate. (z.d.). animista. Geraadpleegd op 29 april 2022, van https://animista.net/play/attention/vibratevibrate-1. (z.d.). animista. Geraadpleegd op 29 april 2022, van https://animista.net/play/attention/vibrate/vibrate-1wobble. (z.d.). animista. Geraadpleegd op 29 april 2022, van https://animista.net/play/attention/wobble
+How To Create a Glowing Text. (z.d.). W3schools. Geraadpleegd op 29 april 2022, van https://www.w3schools.com/howto/howto_css_glowing_text.asp
+
+How To Shake an Image. (z.d.-a). W3schools. Geraadpleegd op 29 april 2022, van https://www.w3schools.com/howto/howto_css_shake_image.asp
+
+How To Shake an Image. (z.d.-b). W3schools. Geraadpleegd op 29 april 2022, van https://www.w3schools.com/howto/howto_css_shake_image.asp
+
+pulsate. (z.d.). animista. Geraadpleegd op 29 april 2022, van https://animista.net/play/attention/pulsate
+
+scale-up. (z.d.). animista. Geraadpleegd op 29 april 2022, van https://animista.net/play/basic/scale-up
+
+transform - CSS: Cascading Style Sheets | MDN. (2022, 5 april). Developer.Mozilla. Geraadpleegd op 29 april 2022, van https://developer.mozilla.org/en-US/docs/Web/CSS/transform
+
+vibrate. (z.d.). animista. Geraadpleegd op 29 april 2022, van https://animista.net/play/attention/vibrate
+
+vibrate-1. (z.d.). animista. Geraadpleegd op 29 april 2022, van https://animista.net/play/attention/vibrate/vibrate-1
+
+wobble. (z.d.). animista. Geraadpleegd op 29 april 2022, van https://animista.net/play/attention/wobble
+
+
 
 <!-- # Web Typography, 2020/2021
 
